@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sparta\\C\u002B\u002BAssignment_3\\3_InventorySystem\\3_InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574EBAFE-8CE7-43A8-AA2A-56BEC694AF56}|3_InventorySystem.vcxproj|D:\\Sparta\\C\u002B\u002BAssignment_3\\3_InventorySystem\\3_InventorySystem\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{574EBAFE-8CE7-43A8-AA2A-56BEC694AF56}|3_InventorySystem.vcxproj|solutionrelative:Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\Sparta\\C\u002B\u002BAssignment_3\\3_InventorySystem\\3_InventorySystem\\Solution.cpp",
+              "RelativeDocumentMoniker": "Solution.cpp",
+              "ToolTip": "D:\\Sparta\\C\u002B\u002BAssignment_3\\3_InventorySystem\\3_InventorySystem\\Solution.cpp",
+              "RelativeToolTip": "Solution.cpp",
+              "ViewState": "AgIAALAAAAAAAAAAAAAowLgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T08:27:16.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
